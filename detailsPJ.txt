@@ -1,5 +1,5 @@
 app.js <bottomtab all> <>
--dashboard<runing order, order request(bottom sheet); review>
+-dashboard<runing order, order request(bottom sheet); review> chưa vẽ biểu đồ
 -additem
 -allfood<detailscreen>
 -notification<notifi, message>
