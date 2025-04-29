@@ -1,0 +1,9 @@
+app.js <bottomtab all> <>
+-dashboard<runing order, order request(bottom sheet); review>
+-additem
+-allfood<detailscreen>
+-notification<notifi, message>
+-profile<withdraw, review>
+
+
+
